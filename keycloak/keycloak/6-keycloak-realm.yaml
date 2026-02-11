@@ -24,8 +24,8 @@ spec:
         linkOnly: false
         firstBrokerLoginFlowAlias: first broker login
         config:
-          clientId: "Ov23liirJnSwN4jd8Fd6"
-          clientSecret: "d5bc37635d8d09b6a012f2614f62266ea551bf33"
+          clientId: "clientid"
+          clientSecret: "secret"
           defaultScope: "user:email"
     clients:
       - clientId: rhdh
